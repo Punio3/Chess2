@@ -1,0 +1,12 @@
+C:\Users\Dell\Desktop\project\Chess2\Chess2\Chess\Chesslogic\bin\Debug\net8.0\Chesslogic.deps.json
+C:\Users\Dell\Desktop\project\Chess2\Chess2\Chess\Chesslogic\bin\Debug\net8.0\Chesslogic.dll
+C:\Users\Dell\Desktop\project\Chess2\Chess2\Chess\Chesslogic\bin\Debug\net8.0\Chesslogic.pdb
+C:\Users\Dell\Desktop\project\Chess2\Chess2\Chess\Chesslogic\obj\Debug\net8.0\Chesslogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\project\Chess2\Chess2\Chess\Chesslogic\obj\Debug\net8.0\Chesslogic.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\project\Chess2\Chess2\Chess\Chesslogic\obj\Debug\net8.0\Chesslogic.AssemblyInfo.cs
+C:\Users\Dell\Desktop\project\Chess2\Chess2\Chess\Chesslogic\obj\Debug\net8.0\Chesslogic.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\project\Chess2\Chess2\Chess\Chesslogic\obj\Debug\net8.0\Chesslogic.sourcelink.json
+C:\Users\Dell\Desktop\project\Chess2\Chess2\Chess\Chesslogic\obj\Debug\net8.0\Chesslogic.dll
+C:\Users\Dell\Desktop\project\Chess2\Chess2\Chess\Chesslogic\obj\Debug\net8.0\refint\Chesslogic.dll
+C:\Users\Dell\Desktop\project\Chess2\Chess2\Chess\Chesslogic\obj\Debug\net8.0\Chesslogic.pdb
+C:\Users\Dell\Desktop\project\Chess2\Chess2\Chess\Chesslogic\obj\Debug\net8.0\ref\Chesslogic.dll
